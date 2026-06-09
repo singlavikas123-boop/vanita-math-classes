@@ -1,0 +1,26 @@
+{
+  "name": "vanita-math-classes",
+  "version": "1.0.0",
+  "description": "Professional website for Vanita Math Classes coaching center",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "typescript": "^5",
+    "eslint": "^8",
+    "eslint-config-next": "^14.0.0"
+  }
+}
